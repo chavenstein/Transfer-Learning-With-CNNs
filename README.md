@@ -35,14 +35,15 @@ In the root directory, there are four files: "Data Augmentation Generator.py", "
 Installing tensorflow-gpu requires more work, but boy is it worth it in the time savings you get with a compatible GPU.
 
 * Try in Anaconda (Windows) to create a tensorflow-gpu environment:
-'''
+
+```
 conda create –name tf_gpu tensorflow-gpu
 activate tf_gpu
 conda install tensorflow-gpu
 conda install spyder
 conda install pydot
 spyder activate tf_gpu
-'''
+```
 
 * Also For TensorFlow-GPU: The following NVIDIA® software must be installed on your system:
 
