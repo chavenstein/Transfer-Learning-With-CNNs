@@ -37,7 +37,7 @@ Installing tensorflow-gpu requires more work, but boy is it worth it in the time
 * Try in Anaconda (Windows) to create a tensorflow-gpu environment:
 
 ```
-conda create –name tf_gpu tensorflow-gpu
+conda create â€“name tf_gpu tensorflow-gpu
 activate tf_gpu
 conda install tensorflow-gpu
 conda install spyder
@@ -45,11 +45,11 @@ conda install pydot
 spyder activate tf_gpu
 ```
 
-* Also For TensorFlow-GPU: The following NVIDIA® software must be installed on your system:
+* Also For TensorFlow-GPU: The following NVIDIAÂ® software must be installed on your system:
 
-1. [NVIDIA® GPU drivers](https://www.nvidia.com/drivers) —CUDA 10.0 requires 410.x or higher. 
+1. [NVIDIAÂ® GPU drivers](https://www.nvidia.com/drivers) â€”CUDA 10.0 requires 410.x or higher. 
 
-2.  [CUDA® Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) — TensorFlow supports CUDA 10.0 (TensorFlow >= 1.13.0) 
+2.  [CUDAÂ® Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) â€” TensorFlow supports CUDA 10.0 (TensorFlow >= 1.13.0) 
 
 3. [cuDNN SDK](https://developer.nvidia.com/cudnn) (>= 7.4.1)
 
@@ -106,7 +106,7 @@ print('\n\nEpsilon:', K.epsilon())
 
 ## Sources
 
-I have referred to a number of sources in this repo when creating the code. I would recommend looking at the links that I have included as comments in this repos' .py files. If any of those links were useful or this repo was useful, please give credit to the the relevent authors.
+I have referred to a number of sources in this repo when creating the code. I would recommend looking at the links that I have included as comments in this repos' .py files. If any of those links were useful or this repo was useful, please give credit to the relevent authors.
 
 
 ---
