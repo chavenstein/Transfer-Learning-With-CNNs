@@ -55,7 +55,7 @@ spyder activate tf_gpu
 
 * You may also refer to **"keras-intro.docx"** for some additional information regarding Keras if you are interested.
 
-* [This link] (https://towardsdatascience.com/installing-tensorflow-with-cuda-cudnn-and-gpu-support-on-windows-10-60693e46e781) will also likely help with  the tensorflow-gpu set up process by providing a number of steps with plenty of screenshots.
+* [This link](https://towardsdatascience.com/installing-tensorflow-with-cuda-cudnn-and-gpu-support-on-windows-10-60693e46e781) will also likely help with  the tensorflow-gpu set up process by providing a number of steps with plenty of screenshots.
 
 * If you have a discrete GPU and you want to know if it is compatible with CUDA for tensorflow-gpu, try starting [here.] (https://developer.nvidia.com/cuda-gpus)
 
